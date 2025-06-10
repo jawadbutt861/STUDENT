@@ -18,3 +18,11 @@ console.log(num2);
 
 // const num4 ;
 
+let name = "Jawad";
+let Name = "Laiba";
+
+// let num_$1 = 20
+
+let num5 = 20;
+// let console = 20;
+// console.log(console);
