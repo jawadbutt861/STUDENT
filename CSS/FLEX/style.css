@@ -1,0 +1,40 @@
+.boxes 
+{
+    border: 2px solid black;
+    /* height: 600px; */
+    padding: 10px;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* justify-content: space-evenly; */
+}
+.box{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+/* .box1{
+    flex: 1;
+}
+.box2
+{
+    flex: 3;
+}
+.box3
+{
+    flex: 1;
+}
+.box4
+{
+    flex: 2;
+}
+.box5
+{
+    flex: 1;
+}  */
