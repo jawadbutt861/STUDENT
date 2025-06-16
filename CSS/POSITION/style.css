@@ -1,0 +1,23 @@
+.boxes{
+    border: 2px solid #000000;
+    padding: 20px;
+    position: relative;
+    height: 1200px;
+}
+.box{
+    width: 50px;
+    border: 2px solid black;
+    height: 50px;
+    margin: 20px;
+}
+.box1{
+    /* position:relative; */
+    /* top: 200px; */
+    /* left: 50px; */
+    /* right: 40px; */
+    /* bottom: 40px; */
+
+   position: fixed;
+   top: 200px;
+   left: 200px;
+}

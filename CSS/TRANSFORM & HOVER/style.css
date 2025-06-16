@@ -1,0 +1,29 @@
+.one{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    /* transform: rotate(90deg); */
+    /* transform: rotateX(40deg); */
+    /* transform: rotateY(40deg); */
+    /* transform: scale(1); */
+    /* transform: translate(100px); */
+    /* transform:skew(70deg); */
+    transition-duration: 2s;
+}
+
+.one:hover{
+    transform: translate(100px);
+}
+button{
+    padding: 10px;
+    font-size: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 20px;
+    transition-duration: 1s;
+}
+button:hover{
+    background-color: red;
+    transform: scale(1.2);
+    color: white;
+}
