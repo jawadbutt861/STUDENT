@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    text-align: center;
+    margin: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.label{
+    color: #346dbe;
+}
+.dropdown{
+    width: 450px;
+    padding: 15px;
+    border: 1px solid #8dc63f;
+    border-radius: 5px;
+    color: gray;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.input{
+    width: 420px;
+    padding: 15px;
+    border: 1px solid #8dc63f;
+    border-radius: 5px;
+}
+/* ::placeholder{
+    color: red;
+} */
