@@ -60,123 +60,40 @@
 // Variables Datatypes primitive and non-primitive object operators conditions function
 // array loops dom manipulation 
 
-function evenOdd(num){
-    if(num %2 == 0){
-        return "Even";
-    }
-    else{
-        return "Odd";
-    }
-}
+// function evenOdd(num){
+//     if(num %2 == 0){
+//         return "Even";
+//     }
+//     else{
+//         return "Odd";
+//     }
+// }
 
-console.log(evenOdd(2));
+// console.log(evenOdd(2));
 
 
+// functions 2 types
+// User-Defined functions
+// Built-in Functions
 
+// alert("Hello");
+// let num = 10;
+// parseInt(num);
 
+// Methods
+// console.log("Hello");
 
+// Arrow Function
 
+// function sum(){
 
+// }
 
+// let sum = (num1,num2) => {
 
+// };
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// let const
+// function
+// var
+// arrow function 
