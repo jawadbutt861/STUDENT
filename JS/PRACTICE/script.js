@@ -2,6 +2,8 @@
 // Datatypes
 // operators
 // conditions
+// Function
+
 
 // let const var
 
@@ -54,3 +56,16 @@
 
 // let a;
 // console.log(a);
+
+
+function add( num1 ,num2 )//parameters // Function declaration
+{
+
+}
+
+add(num1,num2);//Arguments  // function call
+
+
+// let subtract = () =>{
+
+// }
