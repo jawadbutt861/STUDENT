@@ -137,6 +137,7 @@
     align-items: center;
     flex-direction: column;
     gap: 3rem;
+    margin-bottom: 5rem;
 }
 .top{
     position: absolute;
@@ -150,6 +151,43 @@
 .banner-img{
     width: 495px;
     height: 590px;
+}
+.five-imgs-heading{
+    color: #00ae47;
+    font-size: 20px;
+    text-align: center;
+}
+.div1-img{
+    width: 200px;
+}
+.img-para{
+    font-size: 20px;
+    color: #00ae47;
+    text-align: center;
+}
+.img-div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+} 
+.imgs-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+    padding: 20px;
+    width: 800px;
+}
+.main-imgs-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.five-imgs{
+    margin-top: 5rem\s;
 }
 @media(max-width:1000px)
 {
