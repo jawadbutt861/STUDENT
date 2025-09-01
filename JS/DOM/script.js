@@ -55,3 +55,33 @@
 
 // let msg = document.querySelector("#message");
 // msg.innerHTML = "Welcome!";
+
+
+// const cities = [
+//       "karachi",
+//       "lahore",
+//       "islamabad",
+//       "quetta",
+//       "peshawar",
+//       "multan",
+//       "faisalabad",
+//       "rawalpindi",
+//       "hyderabad",
+//       "sialkot",
+//       "gujranwala",
+//       "bahawalpur",
+//       "sukkur",
+//       "mardan",
+//       "abbottabad",
+//       "gwadar",
+//       "murree",
+//       "sargodha",
+//       "okara",
+//       "rahim yar khan"
+//     ];
+    
+//     let ol = document.querySelector(".ol");
+//     for(let i = 0; i < cities.length; i++)
+//     {
+//         ol.innerHTML += `<li type=""> ${cities[i]} </li>`
+//     }
