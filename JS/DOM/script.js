@@ -86,9 +86,9 @@
 //         ol.innerHTML += `<li type=""> ${cities[i]} </li>`
 //     }
 
-let head = document.querySelector("#heading");
-head.style.color = "Blue";
-head.innerHTML = "Hello Hello"
+// let head = document.querySelector("#heading");
+// head.style.color = "Blue";
+// head.innerHTML = "Hello Hello"
 
 
 
@@ -117,4 +117,8 @@ const cities = [
     ];
 
 let ol = document.querySelector(".ol");
+//backtick /string literals ``
 
+for(let i = 0; i < cities.length; i++){
+  ol.innerHTML += `<li>${cities[i]}</li>`
+}
